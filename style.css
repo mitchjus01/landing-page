@@ -117,3 +117,55 @@ button {
     text-align: center;
     gap: 10px;
 }
+
+.wrapper4 {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.content2 {
+    background-color: #E5E7EB;
+    padding: 100px 0;
+}
+
+.quote {
+    font-size: 36px;
+}
+
+#quote-sig {
+    display: flex;
+    justify-content: flex-end;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.call-to-action {
+    display: flex;
+    justify-content: space-between;
+    width: 700px;
+    margin: 100px auto;
+    padding: 50px 100px;
+    background-color: #3882F6;
+    border-radius: 20px;
+    color: #E5E7EB;
+}
+
+.button2 {
+    flex-shrink: 0;
+    border: 2px solid #E5E7EB;
+}
+
+.cta-header {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.footer {
+    background-color: #1f2937;
+    color: #E5E7EB;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+}
